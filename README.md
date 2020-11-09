@@ -1,3 +1,6 @@
+
+<img src="https://j.gifs.com/WL4A2J.gif">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
